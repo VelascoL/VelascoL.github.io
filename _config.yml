@@ -1,14 +1,10 @@
 title: Luisa Velasco
 navbar_title: Luisa Velasco
+email: lmvelasco@utexas.edu
 
-author: Luisa Velasco
-  name: Luisa Velasco # Your name
-  email: lmvelasco@utexas.edu
+description: Mathematics PhD student at UT Austin   # description of your site
 
-description: I am a mathematics PhD student at UT Austin working with Nataša Pavlović. I like to think about problems in mathematical physics and probability.   # description of your site
-
-url: "https://jekyll-academic.netlify.app" # The base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://velascol.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 jekyllacademic:
   homepage_title: "About" # Your homepage title
