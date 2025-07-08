@@ -4,11 +4,6 @@
 <body>
   <main>
     <header>{% include nav.html %}</header>
-    {% if site.logo %}
-  <div style="text-align: center;">
-    <img src="{{ site.logo }}" alt="Logo" style="max-height: 200px; margin-bottom: 20px;" />
-  </div>
-{% endif %}
     <section>
       {{ content }}
     </section>
