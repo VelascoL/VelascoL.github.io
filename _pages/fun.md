@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1 style="color: #cc0000;">FUN</h1>
+<h1 style="color: #cc0000;">Fun</h1>
 
 My friends and I like to solve [cryptic crosswords](https://en.wikipedia.org/wiki/Cryptic_crossword). 
 
