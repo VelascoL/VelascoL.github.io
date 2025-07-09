@@ -5,6 +5,7 @@ email: lmvelasco@utexas.edu
 description: Mathematics PhD student at UT Austin   # description of your site
 
 url: "https://velascol.github.io" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: /VelascoL.github.io
 
 jekyllacademic:
   homepage_title: "About" # Your homepage title
