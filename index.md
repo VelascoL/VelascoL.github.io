@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![My Profile Picture](assets/img/me.jpg)
 
 I am a mathematics PhD student at [UT Austin](https://math.utexas.edu/) working with [Nataša Pavlović](https://web.ma.utexas.edu/users/natasa/). 
 
