@@ -10,11 +10,11 @@ Here is an archive of cryptics that were completed by some friends and myself fr
 
 This collection exists in physical form in my office PMA 12.146. See it for yourself before it goes on loan to the Met!
 
-<details class="expand-box">
-  <summary><strong>DS/DL&S</strong></summary>
+<details>
+  <summary>DS/DL&S</summary>
 
   
-   [December 10, 2024](/assets/files/cryptics/DLS_12_10_24.pdf)
+   [December 10, 2024](assets/files/cryptics/DLS_12_10_24.pdf)
    
    [January 14, 2025](/assets/files/cryptics/DLS_1_14_25.pdf)
    
