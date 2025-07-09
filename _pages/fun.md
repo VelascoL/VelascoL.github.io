@@ -10,13 +10,13 @@ Here is an archive of completed cryptics from the Sydney Herald.
 
 <details class="expand-box">
   <summary><strong>DS/DL&S</strong></summary>
-  - [December 10, 2024](assets/files/cryptics/DLS_12_10_24.pdf)
-  - [January 14, 2025](assets/files/cryptics/DLS_1_14_25.pdf)
-  - [January 28, 2025](assets/files/cryptics/DLS_1_28_25.pdf)
-  - [April 1, 2025](assets/files/cryptics/DLS_4_1_25.pdf)
-  - [April 15, 2025](assets/files/cryptics/DLS_4_15_25.pdf)
-  - [April 25, 2024](assets/files/cryptics/DS_4_25_25.pdf)
-  - [June 24, 2025](assets/files/cryptics/DLS_6_24_25.pdf)
+  -  [December 10, 2024](assets/files/cryptics/DLS_12_10_24.pdf)
+  -  [January 14, 2025](assets/files/cryptics/DLS_1_14_25.pdf)
+  -  [January 28, 2025](assets/files/cryptics/DLS_1_28_25.pdf)
+  -  [April 1, 2025](assets/files/cryptics/DLS_4_1_25.pdf)
+  -  [April 15, 2025](assets/files/cryptics/DLS_4_15_25.pdf)
+  -  [April 25, 2024](assets/files/cryptics/DS_4_25_25.pdf)
+  -  [June 24, 2025](assets/files/cryptics/DLS_6_24_25.pdf)
 </details>
 
 <details class="expand-box">
