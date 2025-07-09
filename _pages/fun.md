@@ -11,7 +11,7 @@ Here is an archive of completed cryptics from the Sydney Herald.
 <details class="expand-box">
   <summary><strong>DS/DL&S</strong></summary>
   
-  - [December 10, 2024]({{ '/assets/files/cryptics/DLS_12_10_24.pdf' | relative_url }})
+  - [December 10, 2024](assets/files/cryptics/DLS_12_10_24.pdf)
   - [January 14, 2025](assets/files/cryptics/DLS_1_14_25.pdf)
   - [January 28, 2025](assets/files/cryptics/DLS_1_28_25.pdf)
   - [April 1, 2025](assets/files/cryptics/DLS_4_1_25.pdf)
