@@ -47,7 +47,7 @@ This collection exists in physical form in my office PMA 12.146. See it for your
   
   [June 26, 2025](/assets/files/cryptics/DA_6_26_25.pdf)
   
-  [idk when](/assets/files/cryptics/DA_idk.pdf)
+  [???](/assets/files/cryptics/DA_idk.pdf)
   
 
 **RK**
@@ -68,7 +68,7 @@ This collection exists in physical form in my office PMA 12.146. See it for your
   
   [June 18, 2025](/assets/files/cryptics/RK_6_18_25.pdf)
   
-  [idk when](/assets/files/cryptics/RK_idk.pdf)
+  [???](/assets/files/cryptics/RK_idk.pdf)
   
 
 **Other**
