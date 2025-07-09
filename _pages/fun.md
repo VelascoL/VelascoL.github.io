@@ -6,7 +6,9 @@ layout: default
 
 My friends and I like to solve [cryptic crosswords](https://en.wikipedia.org/wiki/Cryptic_crossword). 
 
-Here is an archive of completed cryptics from the Sydney Herald. This collection exists in physical form in my office PMA 12.146. See it before it goes on loan to the Met!
+Here is an archive of completed cryptics from the Sydney Herald. 
+
+This collection exists in physical form in my office PMA 12.146. See it for yourself before it goes on loan to the Met!
 
 <details class="expand-box">
   <summary><strong>DS/DL&S</strong></summary>
