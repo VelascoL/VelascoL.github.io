@@ -28,34 +28,29 @@ This collection exists in physical form in my office PMA 12.146. See it for your
  [June 24, 2025](/assets/files/cryptics/DLS_6_24_25.pdf)
 
 
-<details class="expand-box">
-  <summary><strong>DA</strong></summary>
+**DA**
 
   
-   [December 5, 2024](/assets/files/cryptics/DA_12_5_24.pdf)
-    
-   [January 15, 2025](/assets/files/cryptics/DA_1_15_25.pdf)
-    
-   [February 6, 2025](/assets/files/cryptics/DA_2_6_25.pdf)
+  [December 5, 2024](/assets/files/cryptics/DA_12_5_24.pdf)
    
-   [February 27, 2025](/assets/files/cryptics/DA_2_27_25.pdf)
+  [January 15, 2025](/assets/files/cryptics/DA_1_15_25.pdf)
    
-   [March 6, 2025](/assets/files/cryptics/DA_3_6_25.pdf)
-   
-   [March 13, 2025](/assets/files/cryptics/DA_3_13_25.pdf)
-   
-   [April 10, 2025](/assets/files/cryptics/DA_4_10_25.pdf)
-   
-   [June 26, 2025](/assets/files/cryptics/DA_6_26_25.pdf)
-   
-   [idk when](/assets/files/cryptics/DA_idk.pdf)
+  [February 6, 2025](/assets/files/cryptics/DA_2_6_25.pdf)
+  
+  [February 27, 2025](/assets/files/cryptics/DA_2_27_25.pdf)
+  
+  [March 6, 2025](/assets/files/cryptics/DA_3_6_25.pdf)
+  
+  [March 13, 2025](/assets/files/cryptics/DA_3_13_25.pdf)
+  
+  [April 10, 2025](/assets/files/cryptics/DA_4_10_25.pdf)
+  
+  [June 26, 2025](/assets/files/cryptics/DA_6_26_25.pdf)
+  
+  [idk when](/assets/files/cryptics/DA_idk.pdf)
+  
 
-    
-</details>
-
-<details class="expand-box">
-  <summary><strong>RK</strong></summary>
-
+**RK**
 
   [December 11, 2024](/assets/files/cryptics/RK_12_11_24.pdf)
   
@@ -74,13 +69,9 @@ This collection exists in physical form in my office PMA 12.146. See it for your
   [June 18, 2025](/assets/files/cryptics/RK_6_18_25.pdf)
   
   [idk when](/assets/files/cryptics/RK_idk.pdf)
+  
 
-    
-</details>
-
-<details class="expand-box">
-  <summary><strong>Other</strong></summary>
-
+**Other**
 
   [LR, December 30, 2024](/assets/files/cryptics/LR_12_30_24.pdf)
   
@@ -89,6 +80,5 @@ This collection exists in physical form in my office PMA 12.146. See it for your
   [RM, April 13, 2025](/assets/files/cryptics/RM_4_13_25.pdf)
 
     
-</details>
 
 
