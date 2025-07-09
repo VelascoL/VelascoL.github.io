@@ -2,7 +2,7 @@
 layout: default
 ---
 <p align="center">
-  <img src="assets/img/me.jpg" alt="My Photo" width="200">
+  <img src="assets/img/me.jpg" alt="My Photo" width="300">
 </p>
 
 I am a mathematics PhD student at [UT Austin](https://math.utexas.edu/) working with [Nataša Pavlović](https://web.ma.utexas.edu/users/natasa/). 
