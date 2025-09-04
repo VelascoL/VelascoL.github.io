@@ -72,7 +72,7 @@ This collection exists in physical form in my office PMA 12.146. See it for your
 
   **LR**
    [LR, December 30, 2024](/assets/files/cryptics/LR_12_30_24.pdf)
-   [LR August 18,2025](/assets/files/cryptics/LR_8_18_25.pdf)
+   [LR August 18,2025](/assets/files/cryptics/LR_8_18.pdf)
   
 
 **Other**
