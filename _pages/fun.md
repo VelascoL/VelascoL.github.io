@@ -69,12 +69,14 @@ This collection exists in physical form in my office PMA 12.146. See it for your
   [June 18, 2025](/assets/files/cryptics/RK_6_18_25.pdf)
   
   [???](/assets/files/cryptics/RK_idk.pdf)
+
+  **LR**
+   [LR, December 30, 2024](/assets/files/cryptics/LR_12_30_24.pdf)
+   [LR August 18,2025](/assets/files/cryptics/LR_8_18_25.pdf)
   
 
 **Other**
 
-  [LR, December 30, 2024](/assets/files/cryptics/LR_12_30_24.pdf)
-  
   [NS, January 1, 2025](/assets/files/cryptics/NS_1_1_25.pdf)
   
   [RM, April 13, 2025](/assets/files/cryptics/RM_4_13_25.pdf)
