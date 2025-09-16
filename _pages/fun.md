@@ -67,6 +67,8 @@ This collection exists in physical form in my office PMA 12.146. See it for your
   [April 23, 2025](/assets/files/cryptics/RK_4_23_25.pdf)
   
   [June 18, 2025](/assets/files/cryptics/RK_6_18_25.pdf)
+
+  [August 13, 2025](/assets/files/cryptics/RK_8_13_25.pdf)
   
   [???](/assets/files/cryptics/RK_idk.pdf)
 
