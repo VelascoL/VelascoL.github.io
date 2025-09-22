@@ -6,7 +6,7 @@ title: "Publications"
 <h1>Publications</h1>
 
 <ul>
-  {% assign pubs = site.projects | sort: "year" | reverse %}
+  {% assign pubs = site.projects| sort: "year" | reverse %}
   {% for pub in pubs %}
     <li>
       <strong>{{ pub.title }}</strong><br>
