@@ -84,6 +84,8 @@ This collection exists in physical form in my office PMA 12.146. See it for your
   
   [RM, April 13, 2025](/assets/files/cryptics/RM_4_13_25.pdf)
 
+  [RM August 17, 2025](/assets/files/cryptics/RM_8_17_25.pdf)
+
     
 
 
