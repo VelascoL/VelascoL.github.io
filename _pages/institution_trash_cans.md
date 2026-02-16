@@ -3,4 +3,4 @@ layout: default
 ---
 MIT:
 
-![MIT](assets/images/MIT.JPG)
+![MIT](VelascoL.github.io/assets/images/MIT.JPG)
