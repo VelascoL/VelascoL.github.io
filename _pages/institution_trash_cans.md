@@ -2,7 +2,5 @@
 layout: default
 ---
 <div class="gallery">
-  <img src="assets/img/MIT.JPG" alt="Photo 1">
-  <img src="assets/img/Metz.jpeg" alt="Photo 2">
-  <img src="assets/img/Kansas_State.jpeg" alt="Photo 3">
+  <img src="/VelascoL.github.io/assets/img/MIT.JPG" alt="Photo 1">
 </div>
