@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /pages/cryptic_archive/
 title: Cryptic Crosswords
 ---
 
@@ -11,7 +12,7 @@ This page contains my archive of completed cryptic crosswords.
 
 **DL&S/DS**
 
- [December 10, 2024](assets/files/cryptics/DLS_12_10_24.pdf)
+ [December 10, 2024](/assets/files/cryptics/DLS_12_10_24.pdf)
  
  [January 14, 2025](/assets/files/cryptics/DLS_1_14_25.pdf)
  
