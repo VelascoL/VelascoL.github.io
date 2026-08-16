@@ -5,6 +5,7 @@ title: "Institution Trash Cans"
 author_profile: true
 ---
 
+
 <h1>Institution Trash Cans</h1>
 
 <div class="photo-column">
