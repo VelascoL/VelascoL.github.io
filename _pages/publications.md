@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Publications"
+title: "Publications and Preprints"
 ---
 
 <h1>Publications and Preprints</h1>
@@ -12,13 +12,25 @@ title: "Publications"
   <li>
     {{ pub.title }}<br>
     {{ pub.authors }}<br>
-    {{ pub.journal }}, {{ pub.year }}.
+
+    {% if pub.journal %}
+      {{ pub.journal }}, {{ pub.year }}.
+    {% else %}
+      Preprint, {{ pub.year }}.
+    {% endif %}
+
     {% if pub.note %} {{ pub.note }} {% endif %}
+
     <br>
+
     {% if pub.arxivlink %}
       <a href="{{ pub.arxivlink }}" target="_blank">arXiv</a>
     {% endif %}
-    {% if pub.arxivlink and pub.journallink %} | {% endif %}
+
+    {% if pub.arxivlink and pub.journallink %}
+      |
+    {% endif %}
+
     {% if pub.journallink %}
       <a href="{{ pub.journallink }}" target="_blank">Journal</a>
     {% endif %}
