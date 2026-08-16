@@ -2,6 +2,7 @@
 layout: default
 permalink: /pages/institution_trash_cans/
 title: "Institution Trash Cans"
+author_profile: true
 ---
 
 <h1>Institution Trash Cans</h1>
