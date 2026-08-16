@@ -17,7 +17,7 @@ author_profile: true
 </figure>
 
 <figure>
-  <img src="/assets/img/Kansas_State.jpeg"
+  <img src="/assets/img/Kansas State.jpeg"
        alt="Kansas State trash can">
   <figcaption>Kansas State, Nov 2025</figcaption>
 </figure>
