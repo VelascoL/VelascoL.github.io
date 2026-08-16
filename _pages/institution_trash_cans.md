@@ -10,6 +10,12 @@ author_profile: true
 <div class="photo-column">
 
 <figure>
+  <img src="{{ '/assets/img/FIU.jpeg' | relative_url }}"
+       alt="FIU trash can">
+  <figcaption>Florida International University, May 2026</figcaption>
+</figure>
+
+<figure>
   <img src="{{ '/assets/img/Kansas_State.jpeg' | relative_url }}"
        alt="Kansas State trash can">
   <figcaption>Kansas State, Nov 2025</figcaption>
