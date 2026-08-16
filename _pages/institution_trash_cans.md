@@ -10,25 +10,25 @@ author_profile: true
 <div class="photo-column">
 
 <figure>
-  <img src="{{ '/assets/img/FIU.jpeg' | relative_url }}"
+  <img src="/assets/img/FIU.jpeg"
        alt="FIU trash can">
   <figcaption>Florida International University, May 2026</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/img/Kansas_State.jpeg' | relative_url }}"
+  <img src="/assets/img/Kansas_State.jpeg"
        alt="Kansas State trash can">
   <figcaption>Kansas State, Nov 2025</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/img/Metz.jpeg' | relative_url }}"
+  <img src="/assets/img/Metz.jpeg"
        alt="University of Lorraine trash can">
   <figcaption>University of Lorraine, June 2024</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/img/MIT.JPG' | relative_url }}"
+  <img src="/assets/img/MIT.JPG"
        alt="MIT trash can">
   <figcaption>MIT, July 2023</figcaption>
 </figure>
