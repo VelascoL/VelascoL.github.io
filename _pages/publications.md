@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Publications and Preprints"
+title: "Publications"
 ---
 
-<h1>Publications</h1>
+<h1>Publications and Preprints</h1>
 
 <ul>
   {% assign pubs = site.projects| sort: "year" | reverse %}
