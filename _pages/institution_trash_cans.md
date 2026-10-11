@@ -11,6 +11,12 @@ author_profile: true
 <div class="photo-column">
 
 <figure>
+  <img src="/assets/img/USC.heic"
+       alt="USC trash can">
+  <figcaption>University of Southern California, October 2026</figcaption>
+</figure>
+
+<figure>
   <img src="/assets/img/FIU.jpeg"
        alt="FIU trash can">
   <figcaption>Florida International University, May 2026</figcaption>
