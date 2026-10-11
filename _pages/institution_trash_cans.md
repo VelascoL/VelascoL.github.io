@@ -11,7 +11,7 @@ author_profile: true
 <div class="photo-column">
 
 <figure>
-  <img src="/assets/img/USC.heic"
+  <img src="/assets/img/USC.jpg"
        alt="USC trash can">
   <figcaption>University of Southern California, October 2026</figcaption>
 </figure>
