@@ -11,6 +11,12 @@ author_profile: true
 <div class="photo-column">
 
 <figure>
+  <img src="/assets/img/ASU.jpg"
+       alt="ASU trash can">
+  <figcaption>Arizona State University, November 2026</figcaption>
+</figure>
+
+<figure>
   <img src="/assets/img/USC.jpg"
        alt="USC trash can">
   <figcaption>University of Southern California, October 2026</figcaption>
