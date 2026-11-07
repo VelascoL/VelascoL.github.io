@@ -11,7 +11,7 @@ author_profile: true
 <div class="photo-column">
 
 <figure>
-  <img src="/assets/img/ASU.jpg"
+  <img src="/assets/img/ASU.jpeg"
        alt="ASU trash can">
   <figcaption>Arizona State University, November 2026</figcaption>
 </figure>
